@@ -1,0 +1,814 @@
+2022-01-22 18:53:02,875 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 18:53:03,646 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 18:53:03,653 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 18:53:03,691 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 18:53:03,691 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 18:53:03,750 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.027s)
+2022-01-22 18:53:03,770 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 18:53:03,774 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 18:53:04,067 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 18:53:04,223 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 18:53:04,348 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 18:53:06,458 INFO i.m.r.Micronaut [main] Startup completed in 5800ms. Server Running: http://localhost:50051
+2022-01-22 19:54:11,808 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m37s275ms419µs500ns).
+2022-01-22 20:08:03,195 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-22 20:19:39,265 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 20:19:39,926 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 20:19:39,933 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 20:19:39,979 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 20:19:39,980 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 20:19:40,064 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.037s)
+2022-01-22 20:19:40,086 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 20:19:40,088 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 20:19:40,536 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 20:19:40,862 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 20:19:41,173 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 20:19:44,200 INFO i.m.r.Micronaut [main] Startup completed in 7142ms. Server Running: http://localhost:50051
+2022-01-22 20:20:40,640 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-2] 321f3c1d-c305-4787-8f9e-c4b1f3cb328e: Inicio
+2022-01-22 20:20:46,832 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-2] 321f3c1d-c305-4787-8f9e-c4b1f3cb328e: Fim
+2022-01-22 21:43:26,531 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-22 21:43:47,165 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 21:43:47,777 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 21:43:47,779 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 21:43:47,840 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 21:43:47,842 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 21:43:47,935 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.053s)
+2022-01-22 21:43:47,965 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 21:43:47,968 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 21:43:48,574 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 21:43:49,074 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 21:43:49,528 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 21:43:58,181 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 21:43:59,317 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 21:43:59,322 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 21:43:59,375 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 21:43:59,376 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 21:43:59,453 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.034s)
+2022-01-22 21:43:59,479 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 21:43:59,481 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 21:43:59,804 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 21:44:00,007 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 21:44:00,226 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 21:44:03,529 INFO i.m.r.Micronaut [main] Startup completed in 7600ms. Server Running: http://localhost:50051
+2022-01-22 22:16:59,981 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m546ms868µs600ns).
+2022-01-22 22:17:00,286 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:20:46,516 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:20:47,249 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:20:47,252 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:20:47,309 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:20:47,310 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:20:47,382 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.032s)
+2022-01-22 22:20:47,409 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:20:47,412 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:20:48,122 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:20:48,528 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:20:48,903 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:25:27,354 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:25:28,576 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:25:28,589 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:25:28,667 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:25:28,667 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:25:28,849 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.078s)
+2022-01-22 22:25:28,891 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:25:28,895 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:25:29,460 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:25:29,835 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:25:30,179 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:25:36,649 INFO i.m.r.Micronaut [main] Startup completed in 11850ms. Server Running: http://localhost:50051
+2022-01-22 22:25:52,461 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-1] : Inicio
+2022-01-22 22:25:58,233 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-1] : Fim
+2022-01-22 22:26:16,936 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:42:42,456 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:42:43,798 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:42:43,822 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:42:43,949 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:42:43,951 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:42:44,172 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.090s)
+2022-01-22 22:42:44,237 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:42:44,241 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:42:44,853 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:42:45,212 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:42:45,615 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:42:47,942 INFO i.m.r.Micronaut [main] Startup completed in 7979ms. Server Running: http://localhost:50051
+2022-01-22 22:43:19,498 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:43:32,734 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:43:33,395 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:43:33,406 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:43:33,458 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:43:33,458 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:43:33,644 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.104s)
+2022-01-22 22:43:33,687 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:43:33,691 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:43:34,306 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:43:34,665 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:43:35,008 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:43:37,961 INFO i.m.r.Micronaut [main] Startup completed in 7128ms. Server Running: http://localhost:50051
+2022-01-22 22:44:30,565 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:44:44,097 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:44:44,756 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:44:44,766 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:44:44,809 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:44:44,810 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:44:44,890 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.035s)
+2022-01-22 22:44:44,913 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:44:44,916 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:44:45,588 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:44:46,016 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:44:46,456 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:44:49,817 INFO i.m.r.Micronaut [main] Startup completed in 8198ms. Server Running: http://localhost:50051
+2022-01-22 22:45:11,872 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:45:19,657 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:45:20,641 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:45:20,650 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:45:20,701 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:45:20,701 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:45:20,782 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.038s)
+2022-01-22 22:45:20,810 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:45:20,813 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:45:21,150 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:45:21,361 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:45:21,718 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:45:24,796 INFO i.m.r.Micronaut [main] Startup completed in 7384ms. Server Running: http://localhost:50051
+2022-01-22 22:45:35,124 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:46:07,354 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:46:08,675 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:46:08,688 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:46:08,782 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:46:08,787 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:46:08,986 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.101s)
+2022-01-22 22:46:09,025 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:46:09,030 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:46:09,638 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:46:10,044 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:46:10,419 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:46:27,162 INFO i.m.r.Micronaut [main] Startup completed in 22325ms. Server Running: http://localhost:50051
+2022-01-22 22:46:44,140 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:47:20,454 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:47:21,855 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:47:21,874 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:47:21,978 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:47:21,980 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:47:22,211 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.105s)
+2022-01-22 22:47:22,279 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:47:22,283 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:47:22,939 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:47:23,294 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:47:23,661 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:47:29,051 INFO i.m.r.Micronaut [main] Startup completed in 11077ms. Server Running: http://localhost:50051
+2022-01-22 22:48:16,867 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:48:33,592 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:48:34,814 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:48:34,827 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:48:34,936 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:48:34,938 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:48:35,052 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.057s)
+2022-01-22 22:48:35,078 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:48:35,080 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:48:35,419 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:48:35,637 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:48:35,840 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:48:50,997 INFO i.m.r.Micronaut [main] Startup completed in 19812ms. Server Running: http://localhost:50051
+2022-01-22 22:49:09,481 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:49:15,685 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:49:17,053 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:49:17,081 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:49:17,191 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:49:17,191 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:49:17,402 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.105s)
+2022-01-22 22:49:17,443 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:49:17,447 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:49:26,381 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:49:27,482 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:49:27,490 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:49:27,539 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:49:27,540 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:49:27,621 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.037s)
+2022-01-22 22:49:27,657 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:49:27,660 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:49:28,016 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:49:28,219 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:49:28,422 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:49:31,516 INFO i.m.r.Micronaut [main] Startup completed in 7327ms. Server Running: http://localhost:50051
+2022-01-22 22:49:51,226 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:49:57,634 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:49:58,998 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:49:59,024 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:49:59,136 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:49:59,136 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:49:59,331 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.081s)
+2022-01-22 22:49:59,368 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:49:59,372 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:50:00,018 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:50:00,425 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:50:00,831 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:50:03,879 INFO i.m.r.Micronaut [main] Startup completed in 8728ms. Server Running: http://localhost:50051
+2022-01-22 22:50:15,715 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:50:21,998 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:50:23,231 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:50:23,247 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:50:23,363 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:50:23,363 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:50:23,550 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.091s)
+2022-01-22 22:50:23,636 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:50:23,640 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:50:24,311 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:50:24,763 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:50:25,288 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:50:28,679 INFO i.m.r.Micronaut [main] Startup completed in 8977ms. Server Running: http://localhost:50051
+2022-01-22 22:51:04,526 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:51:10,981 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:51:12,391 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:51:12,405 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:51:12,499 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:51:12,503 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:51:12,715 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.088s)
+2022-01-22 22:51:12,766 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:51:12,770 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:51:13,339 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:51:13,729 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:51:14,104 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:51:17,558 INFO i.m.r.Micronaut [main] Startup completed in 8905ms. Server Running: http://localhost:50051
+2022-01-22 22:51:17,574 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:52:15,687 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:52:16,450 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:52:16,463 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:52:16,507 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:52:16,509 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:52:16,599 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.044s)
+2022-01-22 22:52:16,632 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:52:16,636 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:52:17,103 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:52:17,493 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:52:17,841 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:52:19,087 ERROR i.m.r.Micronaut [main] Error starting Micronaut server: Failed to inject value for parameter [findAllUsersUseCase] of class: com.deviot.adapters.endpoints.UserEndpoint
+
+Message: No bean of type [com.deviot.application.usecases.FindAllUsersUseCaseImpl] exists. Make sure the bean is not disabled by bean requirements (enable trace logging for 'io.micronaut.context.condition' to check) and if the bean is enabled then ensure the class is declared a bean and annotation processing is enabled (for Java and Kotlin the 'micronaut-inject-java' dependency should be configured as an annotation processor).
+Path Taken: new GrpcEmbeddedServer(ApplicationContext applicationContext,ApplicationConfiguration applicationConfiguration,GrpcServerConfiguration grpcServerConfiguration,ServerBuilder serverBuilder,ApplicationEventPublisher eventPublisher,ComputeInstanceMetadataResolver computeInstanceMetadataResolver,List metadataContributors) --> new GrpcEmbeddedServer(ApplicationContext applicationContext,ApplicationConfiguration applicationConfiguration,GrpcServerConfiguration grpcServerConfiguration,[ServerBuilder serverBuilder],ApplicationEventPublisher eventPublisher,ComputeInstanceMetadataResolver computeInstanceMetadataResolver,List metadataContributors) --> ServerBuilder.serverBuilder(GrpcServerConfiguration configuration,[List serviceList],List interceptors,List serverTransportFilters) --> new UserEndpoint([FindAllUsersUseCaseImpl findAllUsersUseCase])
+io.micronaut.context.exceptions.DependencyInjectionException: Failed to inject value for parameter [findAllUsersUseCase] of class: com.deviot.adapters.endpoints.UserEndpoint
+
+Message: No bean of type [com.deviot.application.usecases.FindAllUsersUseCaseImpl] exists. Make sure the bean is not disabled by bean requirements (enable trace logging for 'io.micronaut.context.condition' to check) and if the bean is enabled then ensure the class is declared a bean and annotation processing is enabled (for Java and Kotlin the 'micronaut-inject-java' dependency should be configured as an annotation processor).
+Path Taken: new GrpcEmbeddedServer(ApplicationContext applicationContext,ApplicationConfiguration applicationConfiguration,GrpcServerConfiguration grpcServerConfiguration,ServerBuilder serverBuilder,ApplicationEventPublisher eventPublisher,ComputeInstanceMetadataResolver computeInstanceMetadataResolver,List metadataContributors) --> new GrpcEmbeddedServer(ApplicationContext applicationContext,ApplicationConfiguration applicationConfiguration,GrpcServerConfiguration grpcServerConfiguration,[ServerBuilder serverBuilder],ApplicationEventPublisher eventPublisher,ComputeInstanceMetadataResolver computeInstanceMetadataResolver,List metadataContributors) --> ServerBuilder.serverBuilder(GrpcServerConfiguration configuration,[List serviceList],List interceptors,List serverTransportFilters) --> new UserEndpoint([FindAllUsersUseCaseImpl findAllUsersUseCase])
+	at io.micronaut.context.AbstractInitializableBeanDefinition.resolveBean(AbstractInitializableBeanDefinition.java:1955) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.AbstractInitializableBeanDefinition.getBeanForConstructorArgument(AbstractInitializableBeanDefinition.java:1189) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at com.deviot.adapters.endpoints.$UserEndpoint$Definition.build(Unknown Source) ~[main/:?]
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2336) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.addCandidateToList(DefaultBeanContext.java:3685) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBeanRegistrations(DefaultBeanContext.java:3591) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBeansOfType(DefaultBeanContext.java:1376) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.AbstractInitializableBeanDefinition.resolveBeansOfType(AbstractInitializableBeanDefinition.java:2030) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.AbstractInitializableBeanDefinition.getBeansOfTypeForConstructorArgument(AbstractInitializableBeanDefinition.java:1330) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.grpc.server.$GrpcServerBuilder$ServerBuilder0$Definition.build(Unknown Source) ~[micronaut-grpc-server-runtime-3.1.3.jar:3.1.3]
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2336) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingletonInternal(DefaultBeanContext.java:3281) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingleton(DefaultBeanContext.java:3267) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBeanForDefinition(DefaultBeanContext.java:2820) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBeanInternal(DefaultBeanContext.java:2782) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBean(DefaultBeanContext.java:1638) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.AbstractInitializableBeanDefinition.resolveBean(AbstractInitializableBeanDefinition.java:1933) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.AbstractInitializableBeanDefinition.getBeanForConstructorArgument(AbstractInitializableBeanDefinition.java:1189) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.grpc.server.$GrpcEmbeddedServer$Definition.build(Unknown Source) ~[micronaut-grpc-server-runtime-3.1.3.jar:3.1.3]
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2336) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingletonInternal(DefaultBeanContext.java:3281) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingleton(DefaultBeanContext.java:3267) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBeanForDefinition(DefaultBeanContext.java:2820) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBeanInternal(DefaultBeanContext.java:2782) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.findBean(DefaultBeanContext.java:1704) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.findBean(DefaultBeanContext.java:1678) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.findBean(DefaultBeanContext.java:905) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.BeanLocator.findBean(BeanLocator.java:291) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.runtime.Micronaut.start(Micronaut.java:74) [micronaut-context-3.2.5.jar:3.2.5]
+	at com.deviot.ApplicationKt.main(Application.kt:9) [main/:?]
+Caused by: io.micronaut.context.exceptions.NoSuchBeanException: No bean of type [com.deviot.application.usecases.FindAllUsersUseCaseImpl] exists. Make sure the bean is not disabled by bean requirements (enable trace logging for 'io.micronaut.context.condition' to check) and if the bean is enabled then ensure the class is declared a bean and annotation processing is enabled (for Java and Kotlin the 'micronaut-inject-java' dependency should be configured as an annotation processor).
+	at io.micronaut.context.DefaultBeanContext.getBeanInternal(DefaultBeanContext.java:2795) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.getBean(DefaultBeanContext.java:1638) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.AbstractInitializableBeanDefinition.resolveBean(AbstractInitializableBeanDefinition.java:1933) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	... 29 more
+2022-01-22 22:52:52,351 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:52:53,709 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:52:53,731 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:52:53,890 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:52:53,892 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:52:54,116 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.111s)
+2022-01-22 22:52:54,154 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:52:54,159 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:52:54,753 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:52:55,177 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:52:55,535 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:52:58,424 INFO i.m.r.Micronaut [main] Startup completed in 8508ms. Server Running: http://localhost:50051
+2022-01-22 22:53:36,608 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:53:43,002 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:53:44,365 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:53:44,385 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:53:44,487 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:53:44,489 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:53:44,667 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.082s)
+2022-01-22 22:53:44,707 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:53:44,711 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:53:45,335 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:53:45,721 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:53:46,065 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:53:47,851 INFO i.m.r.Micronaut [main] Startup completed in 7300ms. Server Running: http://localhost:50051
+2022-01-22 22:53:55,339 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:54:01,202 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:54:02,439 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:54:02,453 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:54:02,534 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:54:02,534 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:54:02,757 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.125s)
+2022-01-22 22:54:02,796 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:54:02,799 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:54:03,371 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:54:03,746 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:54:04,074 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:54:07,158 INFO i.m.r.Micronaut [main] Startup completed in 8215ms. Server Running: http://localhost:50051
+2022-01-22 22:54:45,225 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:54:58,197 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:54:58,858 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:54:58,864 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:54:58,908 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:54:58,909 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:54:58,981 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.033s)
+2022-01-22 22:54:59,006 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:54:59,008 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:54:59,446 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:54:59,852 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:55:00,196 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:55:03,306 INFO i.m.r.Micronaut [main] Startup completed in 7272ms. Server Running: http://localhost:50051
+2022-01-22 22:55:19,707 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-1] : Inicio
+2022-01-22 22:55:25,221 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-1] : Fim
+2022-01-22 22:55:25,680 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 22:55:30,984 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 22:55:32,132 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 22:55:32,140 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 22:55:32,221 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 22:55:32,221 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 22:55:32,357 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.056s)
+2022-01-22 22:55:32,393 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 22:55:32,397 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 22:55:32,949 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 22:55:33,262 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 22:55:33,559 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 22:55:35,481 INFO i.m.r.Micronaut [main] Startup completed in 6401ms. Server Running: http://localhost:50051
+2022-01-22 23:03:51,106 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-22 23:04:06,687 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 23:04:07,380 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 23:04:07,390 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 23:04:07,445 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 23:04:07,445 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 23:04:07,519 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.039s)
+2022-01-22 23:04:07,540 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 23:04:07,542 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 23:04:07,964 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 23:04:08,324 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 23:04:08,698 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 23:04:11,761 INFO i.m.r.Micronaut [main] Startup completed in 7523ms. Server Running: http://localhost:50051
+2022-01-22 23:04:22,349 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-1] : Inicio
+2022-01-22 23:04:27,943 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-1] : Fim
+2022-01-22 23:05:07,480 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-22 23:05:22,530 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 23:05:23,107 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 23:05:23,115 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 23:05:23,151 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 23:05:23,152 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 23:05:23,206 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.024s)
+2022-01-22 23:05:23,224 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 23:05:23,227 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 23:05:23,681 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 23:05:24,052 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 23:05:24,404 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 23:05:27,450 INFO i.m.r.Micronaut [main] Startup completed in 6919ms. Server Running: http://localhost:50051
+2022-01-22 23:05:28,218 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-2] 4815de1f-6f25-43bb-8444-b10a3bf4464d: Inicio
+2022-01-22 23:05:29,149 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-2] 4815de1f-6f25-43bb-8444-b10a3bf4464d: Fim
+2022-01-22 23:08:58,794 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-22 23:09:11,964 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-22 23:09:12,802 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-22 23:09:12,813 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-22 23:09:12,864 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-22 23:09:12,865 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-22 23:09:12,965 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.055s)
+2022-01-22 23:09:12,986 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-22 23:09:12,988 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-22 23:09:13,313 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-22 23:09:13,515 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-22 23:09:13,685 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-22 23:09:16,227 INFO i.m.r.Micronaut [main] Startup completed in 6765ms. Server Running: http://localhost:50051
+2022-01-22 23:13:52,141 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m39s229ms260µs600ns).
+2022-01-22 23:13:52,148 INFO c.d.a.i.LogImpl [DefaultDispatcher-worker-2] : Inicio
+2022-01-22 23:13:52,334 INFO i.m.r.Micronaut [Thread-1] Embedded Application shutting down
+2022-01-23 10:04:47,490 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 10:04:50,673 ERROR c.z.h.p.HikariPool [main] HikariPool-1 - Exception during pool initialization.
+org.postgresql.util.PSQLException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:303) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:51) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:223) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.Driver.makeConnection(Driver.java:465) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.Driver.connect(Driver.java:264) ~[postgresql-42.2.23.jar:42.2.23]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) [HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) [HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) [HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) [HikariCP-4.0.3.jar:?]
+	at io.micronaut.configuration.jdbc.hikari.HikariUrlDataSource.<init>(HikariUrlDataSource.java:35) [micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.DatasourceFactory.dataSource(DatasourceFactory.java:66) [micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.$DatasourceFactory$DataSource0$Definition.build(Unknown Source) [micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.context.BeanDefinitionDelegate.build(BeanDefinitionDelegate.java:136) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2336) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingletonInternal(DefaultBeanContext.java:3281) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingleton(DefaultBeanContext.java:3267) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.loadContextScopeBean(DefaultBeanContext.java:2653) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.initializeContext(DefaultBeanContext.java:1932) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultApplicationContext.initializeContext(DefaultApplicationContext.java:237) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.readAllBeanDefinitionClasses(DefaultBeanContext.java:3453) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.finalizeConfiguration(DefaultBeanContext.java:3883) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.start(DefaultBeanContext.java:329) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultApplicationContext.start(DefaultApplicationContext.java:183) [micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.runtime.Micronaut.start(Micronaut.java:72) [micronaut-context-3.2.5.jar:3.2.5]
+	at com.deviot.ApplicationKt.main(Application.kt:9) [main/:?]
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.PlainSocketImpl.waitForConnect(Native Method) ~[?:?]
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:231) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.PGStream.<init>(PGStream.java:95) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:98) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:213) ~[postgresql-42.2.23.jar:42.2.23]
+	... 27 more
+2022-01-23 10:04:50,692 ERROR i.m.r.Micronaut [main] Error starting Micronaut server: Bean definition [javax.sql.DataSource] could not be loaded: Error instantiating bean of type [javax.sql.DataSource]: Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+io.micronaut.context.exceptions.BeanInstantiationException: Bean definition [javax.sql.DataSource] could not be loaded: Error instantiating bean of type [javax.sql.DataSource]: Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at io.micronaut.context.DefaultBeanContext.initializeContext(DefaultBeanContext.java:1938) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultApplicationContext.initializeContext(DefaultApplicationContext.java:237) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.readAllBeanDefinitionClasses(DefaultBeanContext.java:3453) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.finalizeConfiguration(DefaultBeanContext.java:3883) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.start(DefaultBeanContext.java:329) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultApplicationContext.start(DefaultApplicationContext.java:183) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.runtime.Micronaut.start(Micronaut.java:72) [micronaut-context-3.2.5.jar:3.2.5]
+	at com.deviot.ApplicationKt.main(Application.kt:9) [main/:?]
+Caused by: io.micronaut.context.exceptions.BeanInstantiationException: Error instantiating bean of type [javax.sql.DataSource]: Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2365) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingletonInternal(DefaultBeanContext.java:3281) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingleton(DefaultBeanContext.java:3267) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.loadContextScopeBean(DefaultBeanContext.java:2653) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.initializeContext(DefaultBeanContext.java:1932) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	... 7 more
+Caused by: com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:596) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:582) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[HikariCP-4.0.3.jar:?]
+	at io.micronaut.configuration.jdbc.hikari.HikariUrlDataSource.<init>(HikariUrlDataSource.java:35) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.DatasourceFactory.dataSource(DatasourceFactory.java:66) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.$DatasourceFactory$DataSource0$Definition.build(Unknown Source) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.context.BeanDefinitionDelegate.build(BeanDefinitionDelegate.java:136) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2336) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingletonInternal(DefaultBeanContext.java:3281) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingleton(DefaultBeanContext.java:3267) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.loadContextScopeBean(DefaultBeanContext.java:2653) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.initializeContext(DefaultBeanContext.java:1932) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	... 7 more
+Caused by: org.postgresql.util.PSQLException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:303) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:51) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:223) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.Driver.makeConnection(Driver.java:465) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.Driver.connect(Driver.java:264) ~[postgresql-42.2.23.jar:42.2.23]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[HikariCP-4.0.3.jar:?]
+	at io.micronaut.configuration.jdbc.hikari.HikariUrlDataSource.<init>(HikariUrlDataSource.java:35) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.DatasourceFactory.dataSource(DatasourceFactory.java:66) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.$DatasourceFactory$DataSource0$Definition.build(Unknown Source) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.context.BeanDefinitionDelegate.build(BeanDefinitionDelegate.java:136) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2336) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingletonInternal(DefaultBeanContext.java:3281) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingleton(DefaultBeanContext.java:3267) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.loadContextScopeBean(DefaultBeanContext.java:2653) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.initializeContext(DefaultBeanContext.java:1932) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	... 7 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.PlainSocketImpl.waitForConnect(Native Method) ~[?:?]
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:608) ~[?:?]
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:231) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.PGStream.<init>(PGStream.java:95) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:98) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:213) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:51) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:223) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.Driver.makeConnection(Driver.java:465) ~[postgresql-42.2.23.jar:42.2.23]
+	at org.postgresql.Driver.connect(Driver.java:264) ~[postgresql-42.2.23.jar:42.2.23]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[HikariCP-4.0.3.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[HikariCP-4.0.3.jar:?]
+	at io.micronaut.configuration.jdbc.hikari.HikariUrlDataSource.<init>(HikariUrlDataSource.java:35) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.DatasourceFactory.dataSource(DatasourceFactory.java:66) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.configuration.jdbc.hikari.$DatasourceFactory$DataSource0$Definition.build(Unknown Source) ~[micronaut-jdbc-hikari-4.0.4.jar:4.0.4]
+	at io.micronaut.context.BeanDefinitionDelegate.build(BeanDefinitionDelegate.java:136) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.doCreateBean(DefaultBeanContext.java:2336) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingletonInternal(DefaultBeanContext.java:3281) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.createAndRegisterSingleton(DefaultBeanContext.java:3267) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.loadContextScopeBean(DefaultBeanContext.java:2653) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	at io.micronaut.context.DefaultBeanContext.initializeContext(DefaultBeanContext.java:1932) ~[micronaut-inject-3.2.5.jar:3.2.5]
+	... 7 more
+2022-01-23 10:05:25,155 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 10:05:26,452 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 10:05:26,484 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 10:05:26,583 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 10:05:26,585 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 10:05:26,784 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.079s)
+2022-01-23 10:05:26,820 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 10:05:26,824 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 10:05:27,453 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 10:05:27,912 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 10:05:28,283 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 10:05:31,613 INFO i.m.r.Micronaut [main] Startup completed in 8574ms. Server Running: http://localhost:50051
+2022-01-23 10:07:53,194 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 14:32:16,097 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 14:32:17,355 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 14:32:17,377 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 14:32:17,474 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 14:32:17,476 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 14:32:17,665 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.080s)
+2022-01-23 14:32:17,710 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 14:32:17,715 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 14:32:18,363 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 14:32:18,733 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 14:32:19,069 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 14:32:22,211 INFO i.m.r.Micronaut [main] Startup completed in 8358ms. Server Running: http://localhost:50051
+2022-01-23 14:32:23,543 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Inicio
+2022-01-23 14:32:24,545 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Fim
+2022-01-23 15:30:20,883 INFO c.d.a.i.LogImpl [io-executor-thread-74] : Inicio
+2022-01-23 15:30:20,900 INFO c.d.a.i.LogImpl [io-executor-thread-74] : Fim
+2022-01-23 15:30:36,116 INFO c.d.a.i.LogImpl [io-executor-thread-74] : Inicio
+2022-01-23 15:30:36,138 INFO c.d.a.i.LogImpl [io-executor-thread-74] : Fim
+2022-01-23 15:32:50,763 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 15:33:17,552 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 15:33:18,775 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 15:33:18,792 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 15:33:18,873 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 15:33:18,874 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 15:33:19,033 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.073s)
+2022-01-23 15:33:19,076 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 15:33:19,081 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 15:33:19,713 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 15:33:20,058 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 15:33:20,369 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 15:33:23,622 INFO i.m.r.Micronaut [main] Startup completed in 8691ms. Server Running: http://localhost:50051
+2022-01-23 15:33:30,674 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Inicio
+2022-01-23 15:33:31,133 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Fim
+2022-01-23 15:33:32,280 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Inicio
+2022-01-23 15:33:32,303 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Fim
+2022-01-23 15:33:33,511 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Inicio
+2022-01-23 15:33:33,533 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Fim
+2022-01-23 15:33:40,180 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 15:34:09,077 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 15:34:10,254 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 15:34:10,265 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 15:34:10,343 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 15:34:10,343 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 15:34:10,494 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.070s)
+2022-01-23 15:34:10,541 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 15:34:10,546 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 15:34:11,089 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 15:34:11,417 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 15:34:11,715 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 15:34:14,595 INFO i.m.r.Micronaut [main] Startup completed in 7515ms. Server Running: http://localhost:50051
+2022-01-23 15:34:46,972 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 15:35:03,235 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 15:35:04,352 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 15:35:04,356 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 15:35:04,436 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 15:35:04,436 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 15:35:04,568 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.055s)
+2022-01-23 15:35:04,607 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 15:35:04,611 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 15:35:05,144 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 15:35:05,488 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 15:35:05,785 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 15:35:08,698 INFO i.m.r.Micronaut [main] Startup completed in 7413ms. Server Running: http://localhost:50051
+2022-01-23 15:36:06,081 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 15:36:22,850 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 15:36:23,984 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 15:36:23,996 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 15:36:24,075 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 15:36:24,075 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 15:36:24,228 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.070s)
+2022-01-23 15:36:24,270 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 15:36:24,275 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 15:36:24,868 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 15:36:25,196 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 15:36:25,492 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 15:36:28,531 INFO i.m.r.Micronaut [main] Startup completed in 7827ms. Server Running: http://localhost:50051
+2022-01-23 15:38:32,948 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 15:38:48,240 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 15:38:48,785 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 15:38:48,794 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 15:38:48,836 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 15:38:48,836 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 15:38:48,895 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.024s)
+2022-01-23 15:38:48,914 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 15:38:48,917 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 15:38:49,385 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 15:38:49,745 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 15:38:50,042 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 15:38:52,792 INFO i.m.r.Micronaut [main] Startup completed in 6572ms. Server Running: http://localhost:50051
+2022-01-23 15:40:45,801 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 15:41:02,241 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 15:41:03,356 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 15:41:03,366 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 15:41:03,439 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 15:41:03,439 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 15:41:03,579 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.061s)
+2022-01-23 15:41:03,620 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 15:41:03,624 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 15:41:04,205 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 15:41:04,540 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 15:41:04,821 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 15:41:07,540 INFO i.m.r.Micronaut [main] Startup completed in 7410ms. Server Running: http://localhost:50051
+2022-01-23 18:06:35,982 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h23m31s780ms614µs100ns).
+2022-01-23 18:08:23,637 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 18:08:55,370 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 18:08:55,977 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 18:08:55,985 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 18:08:56,027 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 18:08:56,028 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 18:08:56,095 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.028s)
+2022-01-23 18:08:56,119 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 18:08:56,121 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 18:08:56,599 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 18:08:56,911 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 18:08:57,208 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 18:09:00,102 INFO i.m.r.Micronaut [main] Startup completed in 6795ms. Server Running: http://localhost:50051
+2022-01-23 18:09:02,030 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Inicio
+2022-01-23 18:09:07,516 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Fim
+2022-01-23 18:10:52,203 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 18:11:09,378 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 18:11:10,609 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 18:11:10,613 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 18:11:10,708 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 18:11:10,708 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 18:11:10,852 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.062s)
+2022-01-23 18:11:10,895 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 18:11:10,899 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 18:11:11,436 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 18:11:11,764 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 18:11:12,062 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 18:11:14,202 INFO i.m.r.Micronaut [main] Startup completed in 7288ms. Server Running: http://localhost:50051
+2022-01-23 18:11:17,375 INFO c.d.a.i.LogImpl [io-executor-thread-1] de95db77-3de7-47ba-8113-01173af9cb58: Inicio
+2022-01-23 18:11:19,075 INFO c.d.a.i.LogImpl [io-executor-thread-2] 6902866d-30c2-4128-8c5e-fca8b651ebc2: Inicio
+2022-01-23 18:11:22,864 INFO c.d.a.i.LogImpl [io-executor-thread-1] 6902866d-30c2-4128-8c5e-fca8b651ebc2: Fim
+2022-01-23 18:11:24,100 INFO c.d.a.i.LogImpl [io-executor-thread-2] 6902866d-30c2-4128-8c5e-fca8b651ebc2: Fim
+2022-01-23 18:11:47,444 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 18:12:03,274 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 18:12:04,364 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 18:12:04,369 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 18:12:04,459 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 18:12:04,459 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 18:12:04,596 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.058s)
+2022-01-23 18:12:04,634 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 18:12:04,639 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 18:12:05,213 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 18:12:05,585 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 18:12:05,882 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 18:12:08,765 INFO i.m.r.Micronaut [main] Startup completed in 7461ms. Server Running: http://localhost:50051
+2022-01-23 18:13:20,332 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 18:13:37,559 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 18:13:38,684 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 18:13:38,688 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 18:13:38,769 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 18:13:38,769 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 18:13:38,908 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.059s)
+2022-01-23 18:13:38,944 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 18:13:38,948 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 18:13:39,531 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 18:13:39,844 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 18:13:40,125 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 18:13:42,305 INFO i.m.r.Micronaut [main] Startup completed in 6889ms. Server Running: http://localhost:50051
+2022-01-23 18:13:44,801 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Inicio
+2022-01-23 18:13:50,739 INFO c.d.a.i.LogImpl [io-executor-thread-1] : Fim
+2022-01-23 19:21:11,398 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 19:58:45,906 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 19:58:47,151 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 19:58:47,157 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 19:58:47,240 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 19:58:47,240 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 19:58:47,416 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.071s)
+2022-01-23 19:58:47,451 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 19:58:47,456 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 19:58:48,043 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 19:58:48,402 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 19:58:48,681 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 19:58:51,714 INFO i.m.r.Micronaut [main] Startup completed in 7823ms. Server Running: http://localhost:50051
+2022-01-23 19:59:37,759 INFO i.m.r.Micronaut [Thread-0] Embedded Application shutting down
+2022-01-23 20:00:05,984 INFO i.m.c.e.DefaultEnvironment [Test worker] Established active environments: [test]
+2022-01-23 20:00:06,563 INFO c.z.h.HikariDataSource [Test worker] HikariPool-1 - Starting...
+2022-01-23 20:00:07,047 INFO c.z.h.HikariDataSource [Test worker] HikariPool-1 - Start completed.
+2022-01-23 20:00:07,063 INFO i.m.f.AbstractFlywayMigration [Test worker] Running migrations for database with qualifier [default]
+2022-01-23 20:00:07,125 INFO o.f.c.i.l.VersionPrinter [Test worker] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 20:00:07,125 INFO o.f.c.i.d.b.BaseDatabaseType [Test worker] Database: jdbc:h2:mem:devTest (H2 1.4)
+2022-01-23 20:00:07,266 INFO o.f.c.i.c.DbValidate [Test worker] Successfully validated 1 migration (execution time 00:00.051s)
+2022-01-23 20:00:07,282 INFO o.f.c.i.s.JdbcTableSchemaHistory [Test worker] Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2022-01-23 20:00:07,407 INFO o.f.c.i.c.DbMigrate [Test worker] Current version of schema "PUBLIC": << Empty Schema >>
+2022-01-23 20:00:07,422 INFO o.f.c.i.c.DbMigrate [Test worker] Migrating schema "PUBLIC" to version "001 - init"
+2022-01-23 20:00:07,500 INFO o.f.c.i.c.DbMigrate [Test worker] Successfully applied 1 migration to schema "PUBLIC", now at version v001 (execution time 00:00.104s)
+2022-01-23 20:00:07,985 INFO o.h.Version [Test worker] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 20:00:08,547 INFO o.h.a.c.Version [Test worker] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 20:00:08,907 INFO o.h.d.Dialect [Test worker] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-01-23 20:00:12,704 INFO c.z.h.HikariDataSource [Test worker] HikariPool-1 - Shutdown initiated...
+2022-01-23 20:00:12,704 INFO c.z.h.HikariDataSource [Test worker] HikariPool-1 - Shutdown completed.
+2022-01-23 20:15:22,550 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 20:15:23,692 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 20:15:23,705 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 20:15:23,792 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 20:15:23,792 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 20:15:23,967 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.082s)
+2022-01-23 20:15:24,004 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 20:15:24,008 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 20:15:24,567 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 20:15:24,895 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 20:15:25,192 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 20:15:28,255 INFO i.m.r.Micronaut [main] Startup completed in 8602ms. Server Running: http://localhost:50051
+2022-01-23 20:18:10,322 INFO i.m.r.Micronaut [Thread-3] Embedded Application shutting down
+2022-01-23 20:20:23,132 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 20:20:24,254 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 20:20:24,258 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 20:20:24,345 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 20:20:24,345 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 20:20:24,508 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.064s)
+2022-01-23 20:20:24,545 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 20:20:24,549 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 20:20:25,070 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 20:20:25,398 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 20:20:25,680 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 20:20:28,416 INFO i.m.r.Micronaut [main] Startup completed in 7830ms. Server Running: http://localhost:50051
+2022-01-23 20:21:01,097 INFO i.m.r.Micronaut [Thread-3] Embedded Application shutting down
+2022-01-23 20:21:25,291 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 20:21:26,462 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 20:21:26,467 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 20:21:26,558 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 20:21:26,558 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 20:21:26,732 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.078s)
+2022-01-23 20:21:26,769 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 20:21:26,772 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 20:21:27,382 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 20:21:27,764 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 20:21:28,061 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 20:21:31,062 INFO i.m.r.Micronaut [main] Startup completed in 8261ms. Server Running: http://localhost:50051
+2022-01-23 20:24:42,806 INFO i.m.r.Micronaut [Thread-3] Embedded Application shutting down
+2022-01-23 20:25:07,289 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 20:25:08,482 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 20:25:08,496 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 20:25:08,583 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 20:25:08,583 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 20:25:08,764 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.096s)
+2022-01-23 20:25:08,810 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 20:25:08,815 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 20:25:09,397 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 20:25:09,747 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 20:25:10,044 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 20:25:13,166 INFO i.m.r.Micronaut [main] Startup completed in 8467ms. Server Running: http://localhost:50051
+2022-01-23 20:31:22,033 INFO i.m.r.Micronaut [Thread-3] Embedded Application shutting down
+2022-01-23 20:31:34,031 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 20:31:35,415 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 20:31:35,435 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 20:31:35,524 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 20:31:35,528 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 20:31:35,716 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.088s)
+2022-01-23 20:31:35,782 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 20:31:35,787 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 20:31:36,417 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 20:31:36,756 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 20:31:37,102 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 20:31:40,205 INFO i.m.r.Micronaut [main] Startup completed in 9846ms. Server Running: http://localhost:50051
+2022-01-23 20:44:45,061 INFO i.m.r.Micronaut [Thread-3] Embedded Application shutting down
+2022-01-23 20:44:45,080 INFO i.m.r.Micronaut [main] Embedded Application shutting down
+2022-01-23 20:44:55,651 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Starting...
+2022-01-23 20:44:56,849 INFO c.z.h.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-01-23 20:44:56,865 INFO i.m.f.AbstractFlywayMigration [main] Running migrations for database with qualifier [default]
+2022-01-23 20:44:56,945 INFO o.f.c.i.l.VersionPrinter [main] Flyway Community Edition 8.0.5 by Redgate
+2022-01-23 20:44:56,947 INFO o.f.c.i.d.b.BaseDatabaseType [main] Database: jdbc:postgresql://localhost:5432/administration (PostgreSQL 14.1)
+2022-01-23 20:44:57,110 INFO o.f.c.i.c.DbValidate [main] Successfully validated 1 migration (execution time 00:00.070s)
+2022-01-23 20:44:57,154 INFO o.f.c.i.c.DbMigrate [main] Current version of schema "public": 001
+2022-01-23 20:44:57,159 INFO o.f.c.i.c.DbMigrate [main] Schema "public" is up to date. No migration necessary.
+2022-01-23 20:44:57,796 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.5.3.Final
+2022-01-23 20:44:58,292 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-01-23 20:44:58,644 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-01-23 20:45:02,601 INFO i.m.r.Micronaut [main] Startup completed in 10303ms. Server Running: http://localhost:50051
+2022-01-23 20:51:43,128 INFO i.m.r.Micronaut [Thread-3] Embedded Application shutting down

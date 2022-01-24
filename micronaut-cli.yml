@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.deviot
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, grpc, junit, log4j2, kotlin, kotlin-application, kotlin-build, micronaut-build, readme, shade, yaml]

@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.deviot";
+option java_outer_classname = "Administrationbe";
+option objc_class_prefix = "HLW";
+
+package com.deviot;
+
+service UserService {
+  rpc findAll (UserPageRequest) returns (UsersResponse) {}
+  rpc findById (UserIdRequest) returns (UserResponse) {}
+  rpc save (NewUserRequest) returns (UserResponse) {}
+  rpc update (UserRequest) returns (UserResponse) {}
+}
+
+message UserPageRequest {
+  int32 pageNumber = 1;
+  int32 pageSize = 2;
+}
+
+message UserIdRequest {
+  string id = 1;
+}
+
+message NewUserRequest {
+  string fullName = 1;
+  string email = 2;
+}
+
+message UserRequest {
+  string id = 1;
+  string fullName = 2;
+  string email = 3;
+}
+
+message UsersResponse {
+  repeated UserResponse users = 1;
+}
+
+message UserResponse {
+  string id = 1;
+  string fullName = 2;
+  string email = 3;
+}
+
+message UserNoContent {
+}
